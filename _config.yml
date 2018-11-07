@@ -173,4 +173,4 @@ donate:
     
 # post copyright
 copyright:
-    enable: true
+    enable: false
